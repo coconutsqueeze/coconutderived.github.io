@@ -1,0 +1,49 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin:0;
+    padding:0;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+}
+
+img {
+    padding: 40px 0;
+    display: block;
+    margin: auto;
+    height: 480px;
+    width: 720px;
+}
+
+footer {
+    background-color: lightgray;
+}
+ .text-footer {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.fa-chevron-circle-up{font-size: 30px;line-height: 50px;color:#01daec;}
+
+.up-icon{
+	position: fixed;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background: rgba(192,192,192,0.3);
+	bottom: 40px;
+	right: 50px;
+	text-decoration: none;
+	text-align: center;
+	line-height: 50px;
+	color:#ffffff;
+}
